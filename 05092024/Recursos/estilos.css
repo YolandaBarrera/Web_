@@ -1,0 +1,58 @@
+/* body no lleva punto, porque ya está declarado en html */
+body{
+    background-color: rgb(72, 181, 244);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5em; 
+}
+.fondoBlanco{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 10px;
+
+}
+.fondoAzul{
+    background-color: rgb(115, 185, 255);
+}
+.fondoNegro{
+    background-color: black;
+}
+.imagen{
+    width: 200px;
+}
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(203, 131, 218);
+}
+.texto2{
+    font-size: 1em;
+    color: blueviolet;
+    text-align: justify;
+}
+.separacion{
+    padding: 1em;
+    background-color: rgb(233, 182, 237);
+
+}
+.texto3{
+    text-align: center;
+}
+.borde{
+    border: 10px solid white;
+    border-radius: 10px;
+}
+.texto4{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.bordeAzul{
+    border-radius: 5px;
+    border: 2px solid rgb(8, 0, 246);
+}
+.bordeMorado{
+    border-radius: 5px;
+    border: 2px solid rgb(246, 0, 238);
+}
+li{
+    margin-top: 10px;
+}
